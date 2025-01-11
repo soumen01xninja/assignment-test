@@ -215,3 +215,94 @@ nav{
 
 /* news section end */
 
+/* taka section start */
+.taka-box{
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 32px;
+}
+.taka-title{
+    font-size:40px ;
+    font-weight:bold ;
+    color: rgba(14, 14, 14, 1);
+}
+.taka-description{
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+}
+.taka-ammount{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 32px;
+}
+.taka{
+    text-align: center;
+    justify-content: center;
+    padding: 0px 104.5px;
+}
+ul li{
+    list-style: none;
+}
+.number{
+    font-size:40px ;
+    font-weight: bold;
+    color:rgba(14, 14, 14, 0.8) ;
+    background-color:rgba(255, 255, 255, 1) ;
+    padding: 40px;
+    border: none;
+    border-radius: 16px;
+
+}
+.number-2{
+    font-size:40px ;
+    font-weight: bold;
+    color:rgba(14, 14, 14, 0.8) ;
+    background-color:rgba(198, 228, 214, 1);
+    padding: 40px;
+    border: none;
+    border-radius: 16px;
+}
+.taka-section{
+    text-align: center;
+   
+
+}
+.taka-my{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.3);
+    padding: 20px 422.5px;
+    border: none;
+}
+
+/* taka section end */
+/* speach start */
+.speach{
+    background-color: rgba(255, 255, 255, 1);
+    border: none;
+    border-radius: 16px;
+    padding: 48px 24px;
+    margin-top: 80px;
+}
+.speach-desciption{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.8);
+}
+.speach-title{
+    font-size: 20px;
+    font-weight: 600;
+}
+.fat{
+    background-image: url(../images/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    padding: 25px;
+
+
+}
+/* speach end */
+
