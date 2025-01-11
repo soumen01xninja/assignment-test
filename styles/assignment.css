@@ -1,0 +1,170 @@
+/* font design */
+.fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 31px 160px;
+    
+    background-color: #F5F5F5;
+  }
+  
+/* nav styles */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    align-items: center;
+    opacity: 100%;
+    
+   
+    
+}
+.navigation-title{
+    font-weight: bold;
+    font-size: 32;
+    color: #0E0E0E;
+}
+.btn-primary{
+    color: #006A50;
+    font-size: 18px;
+    font-weight: 600px;
+    background-color: #F5F5F5;
+    border: 1px solid #006A50;
+    border-radius:8px ;
+    padding:15px 30px ;   
+
+}
+/* shared style */
+.second-button{
+    color: rgba(255, 255, 255, 1);
+    background-color:rgba(0, 106, 80, 1);
+    font-size:18px ;
+    font-weight: 600;
+    border-radius: 8px;
+    padding:17px 34px;
+    border: none;
+
+}
+.secondary-background{
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 24px;
+
+}
+/* banner style start */
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 51px;}
+    
+.banner-title{
+    color:#0E0E0E ;
+    font-size: 56px;
+    font-weight: bold;
+    
+    
+
+}
+.banner-greetings{
+    color:rgba(14, 14, 14, 0.5) ;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 16px;
+    margin-bottom: 24px;
+    
+}
+.banner-dp{
+    width: 474.03px;
+    height: 400px;
+    padding: 80px 59.99px;
+    
+
+}
+.banner-content{
+    padding: 117px 59.99px;
+    height: 326px;
+    width: 622px;
+    
+}
+/* the vision of future 1at part start */
+.section-tittle{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 1);
+    margin-top: 80px;
+    margin-bottom: 24px;
+
+}
+.section-description{
+    font-size: 16px;
+    font-weight:400 ;
+    color:rgba(14, 14, 14, 0.7) ;
+    margin-bottom: 32px;
+    
+
+}
+/* the vision of future 1at part end */
+
+/* the version of future 2nd part first */
+.future-container{
+    display: flex;
+    gap: 24px;
+    padding: 32px;
+}
+.future{
+    padding: 32px;
+    border: none;
+    border-radius: 16px;
+
+}
+.future-title{
+    font-size: 20px;
+    font-weight: bold;
+    color:rgba(14, 14, 14, 0.8) ;
+}
+.future-description{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+
+}
+.fu-1st{
+    background-color: rgba(84, 144, 245, 0.2);
+    
+}
+.fu-2nd{
+    background-color: rgba(198, 228, 214, 1);
+
+}
+.fu-3rd{
+    background-color: rgba(247, 235, 207, 1);
+}
+.btn-1st{
+     color: rgba(255, 255, 255, 1);
+     font-size: 16px;
+     font-weight: 600;
+     background-color: rgba(84, 144, 245, 1);
+     padding: 11px 20px;
+     border: none;
+     border-radius: 8px;
+}
+.btn-2nd{
+    color: rgba(255, 255, 255, 1);
+    font-size: 16px;
+    font-weight: 600;
+    background-color: rgba(9, 161, 92, 1);
+    padding: 11px 20px;
+    border: none;
+    border-radius: 8px; 
+}
+.btn-3rd{
+    color: rgba(255, 255, 255, 1);
+    font-size: 16px;
+    font-weight: 600;
+    background-color: rgba(255, 194, 57, 1);
+    padding: 11px 20px;
+    border: none;
+    border-radius: 8px;
+}
+    
+
+/* the version of future 2nd part end */
