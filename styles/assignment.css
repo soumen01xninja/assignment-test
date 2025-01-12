@@ -3,7 +3,8 @@
     font-family: "Fira Sans", serif;
     font-weight: 400;
     font-style: normal;
-    margin: 31px 160px;
+     margin: 31px 160px;
+     
     
     background-color: #F5F5F5;
   }
@@ -15,8 +16,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     opacity: 100%;
-    
-   
+    /* margin-bottom: 20px; */
     
 }
 .navigation-title{
@@ -44,6 +44,12 @@ nav{
     padding:17px 34px;
     border: none;
 
+}
+button:hover{
+    background-color: rgba(125, 166, 255, 0.863);
+}
+li:hover{
+    background-color: rgba(255, 157, 186, 0.89);
 }
 
 
@@ -286,6 +292,7 @@ ul li{
     border-radius: 16px;
     padding: 48px 24px;
     margin-top: 80px;
+    margin-bottom: 80px;
 }
 .speach-desciption{
     font-size: 16px;
@@ -305,4 +312,55 @@ ul li{
 
 }
 /* speach end */
+.end-section{
+    background-color: rgba(198, 228, 214, 1);
+    border: none;
+    margin: 0 auto;
+    border-radius: 24px;
+    text-align: center;
+    justify-content: center;
+}
+    .end-box{
+        text-align: center;
+        justify-content: center;
+        padding: 80px 265px;
+    
+    }
+    .end-title{
+        font-size: 40px;
+        font-weight:bold;
+        color: rgba(14, 14, 14, 1);
+    }
+    .end-description{
+        font-size: 14px;
+        font-weight: 400;
+        color: rgba(14, 14, 14, 0.7);
+    }
+    .joy{
+        font-size: 16px;
+        font-weight: 400;
+        padding: 18px 403px 18px 40px;
+        border: none;
+        width: 600;
+        border-radius: 8px 0px 0px 8px;
+    }
+    .btn-5th{
+        color: rgba(255, 255, 255, 1);
+        font-size:18px;
+        font-weight: 600;
+        background-color: rgba(0, 106, 80, 1);
+        padding: 17px 34px;
+        border-radius: 0px 8px 8px 0px;
+        border: none;
+        
+    
+    
+        
+    }
+
+    .bijoy{
+        display: flex;
+        justify-content: center;
+    }
+ 
 
